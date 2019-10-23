@@ -2,13 +2,13 @@
 'use strict';
 
 var React = require("react");
-var Tag$ReactHooksTemplate = require("../Tag.bs.js");
+var Tag$BsTagsReact = require("../Tag.bs.js");
 
 function Test(Props) {
   var match = React.useState((function () {
           return /* [] */0;
         }));
-  return React.createElement(Tag$ReactHooksTemplate.make, {
+  return React.createElement(Tag$BsTagsReact.make, {
               tags: match[0],
               setTags: match[1]
             });
