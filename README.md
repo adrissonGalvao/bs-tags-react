@@ -1,7 +1,6 @@
 # bs-tags-react
 ReasonMl component of tags:
-    
-- [bs-tags-react](#bs-tags-react)
+
   - [Installation](#installation)
   - [Usage](#usage)
 
