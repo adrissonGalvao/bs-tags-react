@@ -11,7 +11,10 @@
     "server": "webpack-dev-server"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "reason",
+    "react",
+    "form"
   ],
   "author": "",
   "license": "MIT",

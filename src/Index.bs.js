@@ -3,7 +3,7 @@
 
 var React = require("react");
 var ReactDOMRe = require("reason-react/src/ReactDOMRe.js");
-var Test$BsTagsReact = require("./Test.bs.js");
+var Test$BsTagsReact = require("./exemples/Test.bs.js");
 
 ReactDOMRe.renderToElementWithId(React.createElement(Test$BsTagsReact.make, { }), "root");
 
